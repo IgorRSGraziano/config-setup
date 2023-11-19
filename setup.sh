@@ -47,3 +47,4 @@ ssh-add ~/.ssh/id_ed25519
 
 git config --global user.name "Igor Graziano"
 git config --global user.email "igorrsgraziano@gmail.com"
+git config --global push.autoSetupRemote "true"
